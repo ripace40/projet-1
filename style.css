@@ -1,3 +1,8 @@
+body {
+  background-image: url("https://assets.sp.milesplit.com/team_logos/27742?v=1");
+   background-repeat: no-repeat;
+  object-fit: cover;
+}
 header {
   backgrond: #2c3e50;
   color: #b2222;
