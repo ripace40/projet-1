@@ -1,6 +1,8 @@
 body {
   background-image: url("https://trms.svvsd.org/wp-content/uploads/sites/47/2024/08/Logo-788x1024.jpg");
    background-repeat: no-repeat;
+  
+  background-image: url("https://co.milesplit.com/teams/27742-trail-ridge-middle-school/schedule");
   object-fit: cover;
   background-size: cover;
 }
