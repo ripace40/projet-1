@@ -1,7 +1,6 @@
 body {
   background-image: url("https://trms.svvsd.org/wp-content/uploads/sites/47/2024/08/Logo-788x1024.jpg");
-   background-repeat: no-repeat;
-  
+   background-repeat: no-repeat;  
   object-fit: cover;
   background-size: cover;
 }
